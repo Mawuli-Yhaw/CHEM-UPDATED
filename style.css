@@ -23,6 +23,9 @@ body {
     width: 100%;
     color: #333333;
   }
+  .banner{
+    color: #333333;
+  }
 .navbar {
   width: 100%;
   background-color: #F5F5F5;
@@ -95,6 +98,7 @@ body {
     font-family: Roboto;
     font-size: 50px;
     font-weight: 700;
+    color: #333333;
   }
 .intro_text{
 font-size: 20px;
@@ -223,6 +227,7 @@ width: 60%;
     border-radius: 10px;
     text-align: center;
     margin: 10px;
+    background-color: #F5F5F5;
   }
   .imgg {
     width: 100%;
